@@ -1,0 +1,6 @@
+This repo is a fork from the one in http://code.google.com/p/andenginelivewallpaperextension/
+
+Recent Changes:
+
+ * Overrided onConfigurationChanged method - Useful to determined if screen orientation changed.
+ * Overrided onOffsetsChanged
